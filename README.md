@@ -105,7 +105,7 @@ replaceAll
 
 
 
-## Autores ✒️
+## 2022 ✒️
 
 
 * **Pablo Arancibia** - Alumno - [pabloarancibia](https://github.com/pabloarancibia)
