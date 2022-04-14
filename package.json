@@ -1,0 +1,14 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Curso de EcmaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arancibia Pablo",
+  "license": "ISC",
+  "dependencies": {
+    "promise.any": "^2.0.4"
+  }
+}
